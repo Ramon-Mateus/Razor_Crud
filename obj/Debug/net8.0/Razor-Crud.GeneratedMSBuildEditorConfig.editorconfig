@@ -38,6 +38,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ramon/projetos/Razor-Crud/Pages/Premiuns/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramon/projetos/Razor-Crud/Pages/Premiuns/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramon/projetos/Razor-Crud/Pages/Premiuns/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramon/projetos/Razor-Crud/Pages/Premiuns/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramon/projetos/Razor-Crud/Pages/Premiuns/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ramon/projetos/Razor-Crud/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,6 +72,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ramon/projetos/Razor-Crud/Pages/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramon/projetos/Razor-Crud/Pages/Students/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramon/projetos/Razor-Crud/Pages/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramon/projetos/Razor-Crud/Pages/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramon/projetos/Razor-Crud/Pages/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ramon/projetos/Razor-Crud/Pages/_ViewImports.cshtml]
