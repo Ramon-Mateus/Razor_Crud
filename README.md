@@ -39,13 +39,13 @@
 * Gera o create de Student.
 
 ```shell
-  dotnet aspnet-codegenerator razorpage Create Create -m Student -dc AplicationDbContext -sqlite -udl  -outDir Pages/Students
+  dotnet aspnet-codegenerator razorpage Create Create -m Student -dc ApplicationDbContext -sqlite -udl  -outDir Pages/Students
 ```
 
 * Gera o edit de Students.
 
 ```shell
-  dotnet aspnet-codegenerator razorpage Edit Edit -m Student -dc AplicationDbContext -sqlite -udl  -outDir Pages/Students
+  dotnet aspnet-codegenerator razorpage Edit Edit -m Student -dc ApplicationDbContext -sqlite -udl  -outDir Pages/Students
 ```
 
 * Gera o Delete de Student.
